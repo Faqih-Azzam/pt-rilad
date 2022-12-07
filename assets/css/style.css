@@ -48,3 +48,15 @@ footer .icon a {
   padding: 10px;
   color: #cfcfcf;
 }
+
+/* schedule.html */
+
+.display-2 {
+  font-size: 40px;
+}
+
+.schedule {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
